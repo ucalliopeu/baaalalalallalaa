@@ -1,17 +1,6 @@
-/**
- * @name system24
- * @description A tui-style discord theme.
- * @author refact0r
- * @version 1.0.0
- * @invite nz87hXyvcy
- * @website https://github.com/refact0r/system24
- * @source https://github.com/refact0r/system24/blob/master/system24.theme.css
- * @authorId 508863359777505290
- * @authorLink https://www.refact0r.dev
-*/
 
 /* import theme modules */
-@import url('https://refact0r.github.io/system24/src/main.css'); /* main theme css. DO NOT REMOVE */
+@import url('https://ucalliopeu.github.io/baaalalalallalaa/main.css'); /* main theme css. DO NOT REMOVE */
 @import url('https://refact0r.github.io/system24/src/unrounding.css'); /* gets rid of all rounded corners. remove if you want rounded corners. */
 
 /* customize things here */
